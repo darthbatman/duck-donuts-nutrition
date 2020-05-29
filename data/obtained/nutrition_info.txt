@@ -1,0 +1,91 @@
+DONUTS Calories CaloriesfromFat TotalFat SaturatedFat TransFat Cholesterol Sodium Carbohydrates DietaryFiber Sugars Protein VitaminA VitaminC Calcium Iron
+Donut (Bare) 210 110 12g 4.5g 0g 20mg 390mg 26g 1g 9g 3g 0% 0% 0% 0%
+Donut - Cinnamon Sugar 220 110 12g 4.5g 0g 20mg 390mg 26g 1g 12g 3g 0% 0% 0% 0%
+Donut - Glazed 250 110 12g 4.5g 0g 20mg 390mg 37g 1g 19g 3g 0% 0% 0% 0%
+Donut - Powdered sugar 220 110 12g 4.5g 0g 20mg 390mg 29g 1g 12g 3g 0% 0% 0% 0%
+COATINGS (10-90) Calories CaloriesfromFat TotalFat SaturatedFat TransFat Cholesterol Sodium Carbohydrates DietaryFiber Sugars Protein VitaminA VitaminC Calcium Iron
+Powdered Sugar 10 0 0g 0g ** 0mg 0mg 3g 0g 3g 0g 0% 0% 0% 0%
+Cinnamon Sugar 10 0 0g 0g ** 0mg 0mg 3g 0g 3g 0g 0% 0% 0% 0%
+Strawberry Icing 50 0 0.5g 0g 0g 0mg 0mg 11g 0g 11g 0g 0% 0% 0% 0%
+Maple Icing 50 0 0.5g 0g 0g 0mg 0mg 11g 0g 10g 0g 0% 0% 0% 0%
+Peanut Butter Icing 90 20 2.5g 1g 0g 0mg 15mg 17g 0g 16g < 1g 2% 0% 0% 4%
+Glaze 45 0 0g 0g 0g 0mg 0mg 11g 0g 10g 0g 0% 0% 0% 0%
+Chocolate Icing 50 10 1.5g 0.5g 0g 0mg 5mg 11g 0g 10g 0g 0% 0% 0% 0%
+Vanilla Icing 50 0 0.5g 0g 0g 0mg 0mg 11g 0g 11g 0g 0% 0% 0% 0%
+Lemon Icing 45 0 0.5g 0g 0g 0mg 0mg 11g 0g 10g 0g 0% 0% 0% 0%
+Blueberry Icing 45 0 0.5g 0g 0g 0mg 0mg 11g 0g 10g 0g 0% 0% 0% 0%
+Key Lime Icing 50 0 0.5g 0g 0g 0mg 0mg 11g 0g 11g 0g 0% 0% 0% 0%
+Orange Icing 45 0 0.5g 0g 0g 0mg 0mg 10g 0g 9g 0g 0% 2% 0% 0%
+Peppermint Icing 50 0 0.5g 0g 0g 0mg 0mg 11g 0g 11g 0g 0% 0% 0% 0%
+Pumpkin Icing 35 0 0g 0g 0g 0mg 0mg 8g 0g 7g 0g 8% 0% 0% 0%
+TOPPINGS (10-35) Calories CaloriesfromFat TotalFat SaturatedFat TransFat Cholesterol Sodium Carbohydrates DietaryFiber Sugars Protein VitaminA VitaminC Calcium Iron
+Chocolate Sprinkles 10 0 0g 0g 0g 0mg 0mg 2g 0g 1g 0g 0% 0% 0% 0%
+Rainbow Sprinkles 15 0 0g 0g 0g 0mg 0mg 2g 0g 1g 0g 0% 0% 0% 0%
+Shredded Coconut 30 15 2g 2g ** 0mg 15mg 3g 0g 2g 0g 0% 0% 0% 0%
+Peanuts 30 25 3g 0g 0g 0mg 0mg 1g 0g 0g 1g 0% 0% 0% 0%
+Bacon 35 25 2.5g 1g 0g 15mg 190mg 0g 0g 0g 3g 0% 0% 0% 0%
+Oreo Crumbles 15 5 0.5g 0g ** ** 15mg 2g 0g 1g 0g 0% ** 0% 0%
+Graham Cracker Crumbs 10 0 0g 0g 0g 0mg 20mg 2g 0g < 1g 0g 0% 0% 0% 0%
+DRIZZLES (5-15) Calories CaloriesfromFat TotalFat SaturatedFat TransFat Cholesterol Sodium Carbohydrates DietaryFiber Sugars Protein VitaminA VitaminC Calcium Iron
+Hot Fudge Drizzle 15 0 0g 0g 0g 0mg 10mg 3g 0g 3g 0g 0% 0% 0% 0%
+Raspberry Drizzle 10 0 0g 0g 0g 0mg 0mg 3g 0g 3g 0g 0% 0% 0% 0%
+Blackberry Drizzle 15 0 0g 0g 0g 0mg 0mg 4g 0g 4g 0g 0% 0% 0% 0%
+Salted Caramel Drizzle 15 0 0g 0g 0g 0mg 10mg 3g 0g 3g 0g 0% 0% 0% 0%
+Marshmallow Drizzle 5 0 0g 0g 0g 0mg 0mg 1g 0g 1g 0g 0% 0% 0% 0%
+SUNDAE (120-580) Calories CaloriesfromFat TotalFat SaturatedFat TransFat Cholesterol Sodium Carbohydrates DietaryFiber Sugars Protein VitaminA VitaminC Calcium Iron
+Donut w/ Peanut Butter Cup 580 250 28g 13g 0g 50mg 520mg 79g 1g 51g 8g 6% 0% 10% 0%
+Donut w/ Vanilla 510 230 26g 13g 0g 55mg 480mg 69g 1g 42g 7g 8% 0% 10% 0%
+Chocolate Ice Cream 120 50 6g 4g 0g 15mg 50mg 14g 0g 9g 2g 4% 0% 6% 0%
+Peanut Butter Cup Ice Cream 170 80 9g 4.5g 0g 20mg 85mg 19g 0g 15g 3g 4% 0% 8% 0%
+Cookies and Cream Ice cream 130 50 6g 4g 0g 15mg 80mg 17g 0g 11g 2g 4% 0% 6% 0%
+Vanilla Ice Cream 130 60 7g 4g 0g 20mg 45mg 15g 0g 9g 2g 4% 0% 6% 0%
+BREAKFAST SANDWICHES Calories CaloriesfromFat TotalFat SaturatedFat TransFat Cholesterol Sodium Carbohydrates DietaryFiber Sugars Protein VitaminA VitaminC Calcium Iron
+Donut - Egg and Cheese 370 220 24g 11g 0g 150mg 850mg 29g 1g 11g 10g 10% 0% 10% 2%
+Donut Bacon Egg and Cheese 440 270 30g 13g 0g 165mg 1100mg 29g 1g 11g 14g 10% 0% 10% 2%
+Donut Sausage Egg and Cheese 600 410 46g 19g 0g 195mg 1220mg 30g 1g 11g 17g 10% 0% 10% 4%
+Egg and Cheese Muffin 280 120 13g 6g 0g 130mg 700mg 27g < 1g 3g 12g 10% 0% 20% 10%
+Sausage Egg and Cheese Muffin 510 310 35g 14g 0g 175mg 1070mg 28g < 1g 3g 19g 10% 0% 20% 10%
+Bacon Egg and Cheese Muffin 350 170 19g 8g 0g 145mg 950mg 27g < 1g 3g 16g 10% 0% 20% 10%
+Bagel - Egg and Cheese 500 120 13g 7g 0g 130mg 1130mg 73g 2g 7g 20g 10% 15% 25% 25%
+Bagel - Bacon Egg and Cheese 570 180 19g 9g 0g 145mg 1380mg 73g 2g 7g 24g 10% 15% 25% 25%
+Bagel - Sausage Egg and Cheese 730 320 35g 15g 0g 175mg 1500mg 74g 2g 7g 27g 10% 15% 25% 30%
+Blueberry Bagel w/ Cream Cheese 450 100 10g 7g 0g 100mg 810mg 72g 2g 7g 15g 8% 15% 15% 25%
+Cinn. Raisin Bagel w/ Cream Cheese 450 100 10g 7g 0g 30mg 700mg 75g 3g 13g 14g 8% 15% 15% 25%
+Eight Grain Bagel w/ Cream Cheese 480 100 11g 7g 0g 30mg 930mg 78g 3g 4g 16g 8% 15% 15% 25%
+Everything Bagel w/ Cream Cheese 460 110 12g 7g 0g 30mg 980mg 71g 3g 6g 15g 8% 15% 15% 25%
+Plain Bagel w/ Cream Cheese 440 100 10g 7g 0g 30mg 770mg 72g 2g 6g 15g 8% 15% 15% 25%
+Bagel w/ Jelly 390 15 1.5g 0.5g 0g 70mg 720mg 79g 2g 14g 13g 0% 15% 15% 25%
+English Muffin w/ Cream Cheese 220 90 10g 6g 0g 30mg 340mg 26g < 1g 2g 7g 8% 0% 10% 10%
+English Muffin w/ Jelly 160 10 1g 0g 0g 0mg 250mg 33g < 1g 9g 5g 0% 0% 8% 8%
+Healthy Delight English Muffin 250 90 10g 3g 0g 130mg 590mg 24g 3g 2g 15g 4% 0% 15% 15%
+Beverages Calories CaloriesfromFat TotalFat SaturatedFat TransFat Cholesterol Sodium Carbohydrates DietaryFiber Sugars Protein VitaminA VitaminC Calcium Iron
+Americano - Medium 10 0 0g 0g 0g 0mg 15mg 2g 0g 0g 0g 0% 0% 0% 0%
+Americano - Large 10 0 0g 0g 0g 0mg 20mg 2g 0g 0g 0g 0% 0% 0% 0%
+Hot Chocolate - Small 320 70 8g 5g 0g 30mg 170mg 48g 2g 49g 12g 15% 2% 35% 0%
+Hot Chocolate - Medium 440 100 11g 7g 0g 40mg 230mg 69g 2g 70g 16g 20% 2% 50% 0%
+Hot Chocolate - Large 490 120 13g 8g 0g 50mg 280mg 72g 2g 73g 20g 20% 2% 70% 0%
+Hot Flavored Coffee - Small 70 0 0g 0g 0g 0mg 5mg 18g 0g 18g 0g 0% 0% 0% 0%
+Hot Flavored Coffee - Medium 100 0 0g 0g 0g 0mg 10mg 24g 0g 24g 0g 0% 0% 0% 0%
+Hot Flavored Coffee - Large 120 0 0g 0g 0g 0mg 10mg 30g 0g 30g < 1g 0% 0% 2% 0%
+Hot Flavored Latte - Medium 260 60 6g 4g 0g 25mg 160mg 40g 0g 39g 10g 10% 2% 35% 0%
+Hot Flavored Latte - Large 340 80 9g 5g 0g 35mg 210mg 52g 0g 51g 14g 15% 2% 50% 2%
+Hot Latte - Medium 160 60 6g 4g 0g 25mg 160mg 16g 0g 15g 10g 10% 2% 35% 0%
+Hot Latte - Large 220 80 9g 5g 0g 35mg 210mg 22g 0g 22g 14g 15% 2% 50% 2%
+Iced Latte - Medium 260 60 6g 4g 0g 25mg 160mg 40g 0g 39g 10g 10% 2% 35% 0%
+Iced Latte - Large 340 80 9g 5g 0g 35mg 210mg 52g 0g 51g 14g 15% 2% 50% 2%
+Cappuccino - Medium 160 60 6g 4g 0g 25mg 160mg 16g 0g 15g 10g 10% 2% 35% 0%
+Cappuccino - Large 220 80 9g 5g 0g 35mg 210mg 22g 0g 22g 14g 15% 2% 50% 2%
+Iced Caramel Macchiato - Medium 200 30 3.5g 2g 0g 10mg 80mg 37g 0g 36g 4g 4% 0% 15% 0%
+Iced Caramel Macchiato - Large 320 60 7g 4.5g 0g 25mg 170mg 54g 0g 53g 10g 10% 2% 40% 0%
+Caramel Macchiato - Medium 290 60 7g 4.5g 0g 25mg 170mg 46g 0g 45g 10g 10% 2% 40% 0%
+Caramel Macchiato - Large 380 90 10g 6g 0g 35mg 230mg 60g 0g 59g 14g 15% 2% 50% 0%
+DarkChocolate Mocha - Medium 340 80 9g 6g 0g 30mg 200mg 53g 1g 44g 12g 15% 2% 40% 8%
+Dark Chocolate Mocha - Large 440 100 12g 7g 0g 40mg 270mg 68g 2g 57g 16g 20% 2% 50% 10%
+Coffee - Small 0 0 0g 0g 0g 0mg 5mg 0g 0g 0g 0g 0% 0% 0% 0%
+Coffee - Medium 0 0 0g 0g 0g 0mg 10mg 0g 0g 0g 0g 0% 0% 0% 0%
+Coffee - Large 5 0 0g 0g 0g 0mg 10mg 0g 0g 0g < 1g 0% 0% 2% 0%
+Sweet Tea - Small 70 0 0g 0g ** 0mg 10mg 19g 0g 19g 0g 0% 0% 0% 0%
+Sweet Tea - Medium 100 0 0g 0g ** 0mg 10mg 27g 0g 26g 0g 0% 0% 0% 0%
+Sweet Tea - Large 130 0 0g 0g ** 0mg 15mg 35g 0g 33g 0g 0% 0% 0% 0%
+White Chocolate Mocha - Medium 400 70 8g 5g 0g 30mg 330mg 69g 0g 62g 10g 15% 2% 35% 2%
+White Chocolate Mocha - Large 520 100 11g 7g 0g 40mg 430mg 88g 0g 80g 14g 20% 2% 50% 2% 
