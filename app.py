@@ -145,7 +145,9 @@ def get_item_nutritions():
 def get_donut_nutrition(donut, item_nutritions, fields, units):
     if ' - ' in donut:
         donut = donut.split(' - ')[1]
-    donut = donut.replace('w/', 'with')
+    if ': ' in donut:
+        donut = donut.split(': ')[1]
+    donut = donut.replace(' w/ ', ' with ').replace(', ', ' with ').replace(' and ', ' with ')
     components = donut.lower().split(' with ')
 
     nutrition = np.array([0 for _ in fields]).astype(float)
@@ -177,7 +179,7 @@ def get_assortment_nutrition(assortment, item_nutritions, fields, units):
         if 'Total' in assortment_nutrition:
             assortment_nutrition['Total'] = add_nutrition_values(assortment_nutrition['Total'], nutrition)
         else:
-            assortment_nutrition['Total'] = nutrition
+            assortment_nutrition['Total'] = dict(nutrition)
 
     return assortment_nutrition
 
@@ -195,8 +197,9 @@ def format_assortment_nutrition(assortment, assortment_nutrition):
         formatted_str += assortment_nutrition['Total'][n_key] + ','
     formatted_str = formatted_str[:-1]
     formatted_str += '\n'
+    del assortment_nutrition['Total']
     for donut in assortment_nutrition:
-        formatted_str += donut + ','
+        formatted_str += donut.replace(',', '') + ','
         for n_key in assortment_nutrition[donut]:
             formatted_str += assortment_nutrition[donut][n_key] + ','
         formatted_str = formatted_str[:-1]
