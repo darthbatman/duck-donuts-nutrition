@@ -3,9 +3,9 @@
 ![python (scoped)](https://img.shields.io/badge/python-%3E%3D3.7.6-brightgreen.svg)
 
 ## Description
-`duck-donuts-nutrition` generates nutrition data in CSV format for Duck Donuts donuts and donut assortments. `duck-donuts-nutrition` parses publicly available nutrition data provided by Duck Donuts to determine nutrition data for individual menu items.
+`duck-donuts-nutrition` calculates nutrition data for Duck Donuts donuts and donut collections. `duck-donuts-nutrition` parses publicly available nutrition data provided by Duck Donuts to determine nutrition data for individual menu items.
 
-Each donut is made up of a combination of menu items (e.g. glazes, toppings, etc.). Each donut's nutritional data is calculated by adding up each nutritional component for all of the donut's menu items. Each assortment's nutritional data is calculated by adding up each nutritional component for all all of the assortment's donuts.
+Each donut is made up of a combination of menu items (e.g. glazes, toppings, etc.). Each donut's nutritional data is calculated by adding up each nutritional component for all of the donut's menu items. Each collection's nutritional data is calculated by adding up each nutritional component for all all of the collection's donuts.
 
 The assortments currently reflected in the generated nutrition data are the Spring Assortment, Signature Assortment, OBX Originals, Duck Dozen, and the Classic Assortment.
 
