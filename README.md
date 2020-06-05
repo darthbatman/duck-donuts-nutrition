@@ -19,7 +19,7 @@ Install the dependencies with the following command.
 
 ### Execution
 
-To run `duck-donuts-nutrition`, use the following command to generate nutrition data in CSV format.
+To run `duck-donuts-nutrition`, use the following command.
 
 `python app.py [-c=custom_donut] [-f, --formatted]`
 
