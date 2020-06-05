@@ -19,15 +19,11 @@ Install the dependencies with the following command.
 
 ### Execution
 
-To run `duck-donuts-nutrition`, use the following command. to generate nutrition data in CSV format,
+To run `duck-donuts-nutrition`, use the following command to generate nutrition data in CSV format.
 
 `python app.py [-c=custom_donut] [-f, --formatted]`
 
 where
-
-`video_file_path` is the path to the video file
-
-`overlay_image_path` is the path to the image to overlay the measured paths on (optional, no overlay image by default)
 
 `-c=custom_donut` specifies the text of the custom donut (optional, nutrition facts for all present collections written to CSV by default)
 
